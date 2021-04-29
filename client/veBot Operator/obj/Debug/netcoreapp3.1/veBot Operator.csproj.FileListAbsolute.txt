@@ -1,0 +1,36 @@
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\veBot Operator.exe
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\veBot Operator.deps.json
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\veBot Operator.runtimeconfig.json
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\veBot Operator.runtimeconfig.dev.json
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\veBot Operator.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\veBot Operator.pdb
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.csprojAssemblyReference.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator_MarkupCompile.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator_MarkupCompile.lref
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.g.resources
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.AssemblyInfoInputs.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.AssemblyInfo.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.dll
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.pdb
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.genruntimeconfig.cache
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.csproj.CopyComplete
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\MayaTheme.dll
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\veBot Operator.csproj.CoreCompileInputs.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\Themes\MayaStyle.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\Themes\MayaStyle.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\Debug\netcoreapp3.1\Themes\Skins\QadskDarkStyle.baml
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\Microsoft.Expression.Encoder.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\Debug\netcoreapp3.1\WebcamControl.dll

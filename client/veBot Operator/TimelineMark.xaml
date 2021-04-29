@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="veBot_Operator.TimelineMark"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <DockPanel>
+        <Border BorderThickness="1" HorizontalAlignment="Center" VerticalAlignment="Top" Padding="2" DockPanel.Dock="Top">
+            <TextBlock x:Name="text"  FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FFC8C8C8">00:00</TextBlock>
+        </Border>
+    </DockPanel>
+</UserControl>

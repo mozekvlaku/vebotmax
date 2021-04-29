@@ -1,0 +1,6 @@
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\netstandard2.0\veBot Operator.csprojAssemblyReference.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\netstandard2.0\veBot_Operator.termiforma.resources
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\netstandard2.0\veBot Operator.csproj.GenerateResource.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\netstandard2.0\veBot Operator.AssemblyInfoInputs.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\netstandard2.0\veBot Operator.AssemblyInfo.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\netstandard2.0\veBot Operator.csproj.CoreCompileInputs.cache

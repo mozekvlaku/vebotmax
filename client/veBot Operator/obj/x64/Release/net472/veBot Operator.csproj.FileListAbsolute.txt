@@ -1,0 +1,108 @@
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\DlibDotNetNative.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\DlibDotNetNativeDnn.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\arrowdown.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\arrowleft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesCenter.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesDown.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesDownLeft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesDownRight.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesLeft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesRight.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesUp.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesUpLeft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\EyesUpRight.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsClosed.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsDisgusted.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsEnvy.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsLobotomy.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsMonoBlink.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsOpen.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsResting.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesPrev\LidsSurprised.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesCenter_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesDown.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesDownLeft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesDownLeft_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesDownRight.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesDownRight_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesLeft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesLeft_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesRight.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesRight_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesUp.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesUpLeft.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesUpLeft_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesUpRight.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesUpRight_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsClosed.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsDisgusted.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsEnvy.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsEnvy_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsMonoBlink.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsOpen.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsResting.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsSurprised.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\LidsSurprised_2.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\grip.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\icona.ico
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\MouthPrev\MouthClosed.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\MouthPrev\MouthOpened.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\MouthPrev\MouthSlightlyOpened.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\progress.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\slider.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\slideroff.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\EyesSkin\EyesCenter.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\install.ico
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\sequenceico.ico
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\uninstall.ico
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Resources\mouth.png
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\veBot Operator.exe.config
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\veBot Operator.exe
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\veBot Operator.pdb
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\MayaTheme.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\ConsoleControl.WPF.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\ConsoleControlAPI.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\DlibDotNet.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Emgu.CV.Platform.NetStandard.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\FaceRecognitionDotNet.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\MjpegProcessor.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\RangeSliderWpfApp.exe
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Renci.SshNet.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\System.Drawing.Common.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\TimelineExLib.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\TimelineLibrary.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\Plugin.TextToSpeech.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\.keepfolder
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\DlibDotNetNativeDnnAgeClassification.dll
+C:\Users\krajd\source\repos\veBot Operator\bin\x64\Release\net472\DlibDotNetNativeDnnGenderClassification.dll
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.csprojAssemblyReference.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\MainWindow.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\Themes\MayaStyle.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\Timeline.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\TimelineElement.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\TimelineLine.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\TimelineMark.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\MainWindow.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\Themes\MayaStyle.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\Timeline.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\TimelineElement.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\TimelineLine.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\TimelineMark.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\App.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator_Content.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\GeneratedInternalTypeHelper.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator_MarkupCompile.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator_MarkupCompile.lref
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\App.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\Themes\Skins\QadskDarkStyle.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\Themes\Skins\QadskLightStyle.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.g.resources
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot_Operator.About.resources
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot_Operator.Properties.Resources.resources
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.csproj.GenerateResource.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.AssemblyInfoInputs.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.AssemblyInfo.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.csproj.CoreCompileInputs.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.csproj.CopyComplete
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.exe
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Release\net472\veBot Operator.pdb

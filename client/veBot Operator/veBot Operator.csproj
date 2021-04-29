@@ -1,0 +1,312 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>veBot_Operator</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject>veBot_Operator.App</StartupObject>
+    <Authors>Vespotok</Authors>
+    <Product>veBot Operator</Product>
+    <Copyright>Vespotok EULA</Copyright>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Resources\icona.ico</ApplicationIcon>
+    <Version>1.5.1</Version>
+    <Description>veBot Operator is the only app you need to control APUROID series of robots.</Description>
+    <PackageIcon>icona.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\arrowdown.png" />
+    <None Remove="Resources\arrowleft.png" />
+    <None Remove="Resources\EyesPrev\EyesCenter.png" />
+    <None Remove="Resources\EyesPrev\EyesDown.png" />
+    <None Remove="Resources\EyesPrev\EyesDownLeft.png" />
+    <None Remove="Resources\EyesPrev\EyesDownRight.png" />
+    <None Remove="Resources\EyesPrev\EyesLeft.png" />
+    <None Remove="Resources\EyesPrev\EyesRight.png" />
+    <None Remove="Resources\EyesPrev\EyesUp.png" />
+    <None Remove="Resources\EyesPrev\EyesUpLeft.png" />
+    <None Remove="Resources\EyesPrev\EyesUpRight.png" />
+    <None Remove="Resources\EyesPrev\LidsClosed.png" />
+    <None Remove="Resources\EyesPrev\LidsDisgusted.png" />
+    <None Remove="Resources\EyesPrev\LidsEnvy.png" />
+    <None Remove="Resources\EyesPrev\LidsLobotomy.png" />
+    <None Remove="Resources\EyesPrev\LidsMonoBlink.png" />
+    <None Remove="Resources\EyesPrev\LidsOpen.png" />
+    <None Remove="Resources\EyesPrev\LidsResting.png" />
+    <None Remove="Resources\EyesPrev\LidsSurprised.png" />
+    <None Remove="Resources\EyesSkin\EyesCenter.png" />
+    <None Remove="Resources\EyesSkin\EyesCenter_2.png" />
+    <None Remove="Resources\EyesSkin\EyesDown.png" />
+    <None Remove="Resources\EyesSkin\EyesDownLeft.png" />
+    <None Remove="Resources\EyesSkin\EyesDownLeft_2.png" />
+    <None Remove="Resources\EyesSkin\EyesDownRight.png" />
+    <None Remove="Resources\EyesSkin\EyesDownRight_2.png" />
+    <None Remove="Resources\EyesSkin\EyesLeft.png" />
+    <None Remove="Resources\EyesSkin\EyesLeft_2.png" />
+    <None Remove="Resources\EyesSkin\EyesRight.png" />
+    <None Remove="Resources\EyesSkin\EyesRight_2.png" />
+    <None Remove="Resources\EyesSkin\EyesUp.png" />
+    <None Remove="Resources\EyesSkin\EyesUpLeft.png" />
+    <None Remove="Resources\EyesSkin\EyesUpLeft_2.png" />
+    <None Remove="Resources\EyesSkin\EyesUpRight.png" />
+    <None Remove="Resources\EyesSkin\EyesUpRight_2.png" />
+    <None Remove="Resources\EyesSkin\LidsClosed.png" />
+    <None Remove="Resources\EyesSkin\LidsDisgusted.png" />
+    <None Remove="Resources\EyesSkin\LidsEnvy.png" />
+    <None Remove="Resources\EyesSkin\LidsEnvy_2.png" />
+    <None Remove="Resources\EyesSkin\LidsMonoBlink.png" />
+    <None Remove="Resources\EyesSkin\LidsOpen.png" />
+    <None Remove="Resources\EyesSkin\LidsResting.png" />
+    <None Remove="Resources\EyesSkin\LidsSurprised.png" />
+    <None Remove="Resources\EyesSkin\LidsSurprised_2.png" />
+    <None Remove="Resources\grip.png" />
+    <None Remove="Resources\icona.ico" />
+    <None Remove="Resources\install.ico" />
+    <None Remove="Resources\mouth.png" />
+    <None Remove="Resources\MouthPrev\MouthClosed.png" />
+    <None Remove="Resources\MouthPrev\MouthOpened.png" />
+    <None Remove="Resources\MouthPrev\MouthSlightlyOpened.png" />
+    <None Remove="Resources\progress.png" />
+    <None Remove="Resources\sequenceico.ico" />
+    <None Remove="Resources\slider.png" />
+    <None Remove="Resources\slideroff.png" />
+    <None Remove="Resources\uninstall.ico" />
+    <None Remove="Splash.png" />
+    <None Include="..\..\..\..\..\Work\PROJEKTY_VESPOTOK\robot\robot\Software\icona.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\arrowdown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\arrowleft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesCenter.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesDown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesDownLeft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesDownRight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesLeft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesRight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesUp.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesUpLeft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\EyesUpRight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsClosed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsDisgusted.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsEnvy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsLobotomy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsMonoBlink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsOpen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsResting.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesPrev\LidsSurprised.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesCenter_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesDown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesDownLeft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesDownLeft_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesDownRight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesDownRight_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesLeft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesLeft_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesRight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesRight_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesUp.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesUpLeft.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesUpLeft_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesUpRight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\EyesUpRight_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsClosed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsDisgusted.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsEnvy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsEnvy_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsMonoBlink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsOpen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsResting.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsSurprised.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\EyesSkin\LidsSurprised_2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\grip.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\icona.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\install.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\MouthPrev\MouthClosed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\MouthPrev\MouthOpened.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\MouthPrev\MouthSlightlyOpened.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\progress.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\sequenceico.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\slider.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\slideroff.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\uninstall.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autodesk.Maya.Theme" Version="0.1.0" />
+    <PackageReference Include="ConsoleControl.WPF" Version="1.3.0" />
+    <PackageReference Include="DlibDotNet" Version="19.21.0.20210302" />
+    <PackageReference Include="Emgu.CV" Version="4.5.1.4349" />
+    <PackageReference Include="FaceRecognitionDotNet" Version="1.3.0.2" />
+    <PackageReference Include="MJPEG-Decoder" Version="1.2.0" />
+    <PackageReference Include="RangeSliderWpfApp" Version="1.0.0" />
+    <PackageReference Include="SSH.NET" Version="2016.1.0" />
+    <PackageReference Include="Timeline" Version="2.0.2.41912" />
+    <PackageReference Include="Wpf.Themes" Version="1.1.0" />
+    <PackageReference Include="Xam.Plugins.TextToSpeech" Version="4.0.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GongSolutions.Wpf.DragDrop">
+      <HintPath>..\..\..\Downloads\CodeProjectTimelineDemo\CodeProjectTimelineDemo\TimeLineTool\bin\Release\GongSolutions.Wpf.DragDrop.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Speech" />
+    <Reference Include="TerminalControl">
+      <HintPath>..\..\..\Downloads\TerminalControl\TerminalControl\bin\Release\TerminalControl.dll</HintPath>
+    </Reference>
+    <Reference Include="TimeBeam">
+      <HintPath>..\..\..\Downloads\TimeBeam-master\TimeBeam-master\TimeBeam\bin\Debug\TimeBeam.dll</HintPath>
+    </Reference>
+    <Reference Include="TimeLineTool">
+      <HintPath>..\..\..\Downloads\CodeProjectTimelineDemo\CodeProjectTimelineDemo\TimeLineTool\bin\Release\TimeLineTool.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\EyesSkin\EyesCenter.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\mouth.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <SplashScreen Include="Splash.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="TimelineLine.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\Themes\MayaStyle.baml
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\MainWindow.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\Themes\MayaStyle.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\App.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\GeneratedInternalTypeHelper.g.cs
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\veBot Operator_MarkupCompile.cache
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\veBot Operator_MarkupCompile.lref
+C:\Users\krajd\source\repos\veBot Operator\obj\x64\Debug\net40\veBot Operator.csprojAssemblyReference.cache
